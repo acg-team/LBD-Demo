@@ -1,0 +1,6 @@
+pharmacy,symptom
+EPA,platelet aggregation
+EPA,vasoconstriction
+Ω-3-FS,platelet aggregation
+Ω-3-FS,vasoconstriction
+ 

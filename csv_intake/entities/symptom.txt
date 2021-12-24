@@ -1,0 +1,4 @@
+symptom,description
+vasoconstriction,symptom
+blood viscosity,symptom
+platelet aggregation,symptom

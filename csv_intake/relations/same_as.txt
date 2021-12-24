@@ -1,0 +1,3 @@
+pharmacy_s,pharmacy_t
+EPA,eicosapentaenoic acid
+Ω-3-FS,omega-3 fatty acid
