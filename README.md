@@ -12,6 +12,8 @@ A simple visualization for demonstrating LBD use cases
 A simple data model here is designed based on a well-known Swanson model. It has three sets of entity types (medicine, natural product, ...) and five relationships (contains, improves, ...) which define binary relationships among different entity types. 
 CSV format is chosen to be compatible to neo4j data intake procedure. The relevant command can handle up to a couple of million entities and relationships.
 
+![alt text](https://github.com/acg-team/LBD-Demo/tree/main/graph.png?raw=true)
+
 #### Data intake
 
 1. Define classes and relationships in CSV format similar to what is already done in csv_intake
