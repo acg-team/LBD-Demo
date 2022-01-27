@@ -1,0 +1,86 @@
+====== serinivasan
+curcumin -> same-as -> curcuma longa
+curcumin ->  same-as -> turmeric
+JNK -> same-as -> c-Jun amino(N)-terminal kinase 
+NF-κB -> same-as -> nuclear factor-kappa B 
+IBD -> same-as -> Irritable Bowel Diseases
+EAE -> same-as -> experimental autoimmune encephalomyelitis
+EAE -> involved-in -> sclerosis
+
+
+
+curcumin -> inhibits -> NF-κB
+curcumin -> inhibits -> AP-1
+curcumin -> inhibits -> JNK 
+curcumin -> inhibits -> TNF-α
+curcumin -> increases -> IL-4
+
+curcumin -> suppresses -> COX-2
+curcumin -> suppresses -> NF-κB
+IL-4 -> suppresses -> inflammation
+IL-4 -> suppresses -> IBD
+IL-4 -> suppresses -> Crohn's desease
+
+curcumin -> impacts -> IL-12
+curcumin -> impacts -> IL-6
+curcumin -> impacts -> IFN-γ
+TNF-α -> impacts -> spinal cord injuries
+IL-12 -> impacts -> spinal cord injuries
+IFN-γ -> impacts -> spinal cord injuries
+IL-4 -> impacts -> spinal cord injuries
+IL-6 -> impacts -> spinal cord injuries
+
+
+curcumin -> neutralizes -> IL-1β
+
+IL-1β -> involved-in -> retinopathy
+COX-2 -> involved-in -> retinopathy
+JNK -> involved-in -> retinopathy
+NF-κB -> involved-in -> retinopathy
+retinopathy -> involved-in -> diabetic retinopathies
+retinopathy -> involved-in -> ocular inflammation
+retinopathy -> involved-in -> glaucoma
+
+
+IL-1β -> regulates -> cell proliferation
+COX-2 -> regulates -> cell proliferation
+JNK -> regulates -> cell proliferation
+NF-κB -> regulates -> cell proliferation
+IL-1β -> regulates -> leukocyte
+COX-2 -> regulates -> leukocyte
+JNK -> regulates -> leukocyte
+NF-κB -> regulates -> leukocyte
+
+================================================
+
+ 
+echinacea, inhibits, CYP450
+Melatonin,inhibits,COX2
+ginseng, inhibits, CYP3A
+ginseng, inhibits, CYP3A
+prednisone,inhibits,P-glycoprotein
+cyclophosphamide,inhibits,P-glycoprotein
+Glucosamine,inhibits,COX2
+CYP450,inhibits,Cyclophosphamide
+CYP450,inhibits,Docetaxel
+CYP450,inhibits,Everolimus
+CYP450,inhibits,Fluorouracil
+CYP450,inhibits,Toremifine
+CYP1A1,inhibits,Exemestane
+CYP3A4,inhibits,Docetaxel
+CYP3A,inhibits,Ginkgo bilob extract
+CYP3A,inhibits,Docetaxel
+grape seed extract, inhibits, CYP3A4
+
+echinacea, stimulate, CYP1A1
+kava preparation, stimulate, CYP3A4
+P-glycoprotein, stimulate, Vitamin E
+COX2, stimulate, Docetaxel
+
+===============================================
+finasteride INTERACTS_WITH testosterone  drug, hormone
+testosterone CAUSES prostatic_hypertrophy hormone, symptom
+emollients INTERACTS_WITH psoriasis  treatment, disease
+psoriasis COEXISTS_WITH eczema  disease, symptom
+isobutyramide STIMULATES gamma-glubin drug, 
+gamma-globin ASSOCIATED_WITH beta_thalassemia  disease
