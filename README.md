@@ -31,4 +31,4 @@ CSV format is chosen to be compatible to neo4j data intake procedure. The releva
 ```MATCH (Subject)-[Predicate]->(Object) RETURN Subject, Predicate, Object LIMIT 5```
 
 ## Frontend
-- https://bit.ly/3yXJnLi
+- shorturl.at/eiDKX
